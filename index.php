@@ -12,7 +12,7 @@
     <title>Signin Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="signin.css" rel="stylesheet">
@@ -31,7 +31,7 @@
 
 <!--<script src="https://ajax.googleapis.com/ajax/libs/"></script>
 <![endif]-->
-<script src="js/jQuery 3.3.1.js"></script>
+<script src="jQuery 3.3.1.js"></script>
 
   </head>
   
@@ -42,7 +42,7 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>GSS GWARINPA NETWORK</h1>
+        <h1>Farm 101 African initiative</h1>
         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
       </div>
